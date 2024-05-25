@@ -53,6 +53,7 @@ Ingredients:
 - 1 pound spaghetti
 - 1 pound ground beef
 - 1/2 cup bread crumbs
+- 1/4 spoon masala and salt
 - 1/4 cup milk
 - 1/4 cup grated Parmesan cheese
 - 1 egg
@@ -93,15 +94,15 @@ Instructions:
 ### Chocolate Chip Cookies
 
 Ingredients:
-- 2 1/4 cups all-purpose flour
-- 1 tsp baking soda
-- 1 tsp salt
-- 1 cup unsalted butter, softened
-- 3/4 cup white sugar
+- 3 1/4 cups all-purpose flour
+- 2 tsp baking soda
+- 2 tsp salt
+-  cup unsalted butter, softened
+- 2 3/4 cup white sugar
 - 3/4 cup brown sugar
-- 2 eggs
-- 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 4 eggs
+- 4 tsp vanilla extract
+- 4 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
@@ -111,5 +112,5 @@ Instructions:
 5. Gradually blend in the dry ingredients.
 6. Stir in chocolate chips.
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
-8. Bake for 8 to 10 minutes or until golden brown.
+8. Bake for 10 to 12 minutes or until golden brown.
 9. Cool on wire racks.
